@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85bffb28-dbb6-422d-9092-7a97c93816b4": {
+      "ProjectGuid": "85bffb28-dbb6-422d-9092-7a97c93816b4",
+      "DisplayName": "JCA.Common.New.Email.AutomatedTests",
+      "ColorIndex": 0
+    },
+    "8d534c01-956f-400b-be0c-4e9354eba1d1": {
+      "ProjectGuid": "8d534c01-956f-400b-be0c-4e9354eba1d1",
+      "DisplayName": "JCA.Squad1.AutomatedTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f52ea784-3efd-4ad4-b633-a500dfcadfc9": {
+      "ProjectGuid": "f52ea784-3efd-4ad4-b633-a500dfcadfc9",
+      "DisplayName": "JCA.Common.New.Email.AutomatedTests",
+      "ColorIndex": 2
+    },
+    "80fde576-ac40-4f25-ba3e-d8bf083e6902": {
+      "ProjectGuid": "80fde576-ac40-4f25-ba3e-d8bf083e6902",
+      "DisplayName": "JCA.AutomatedTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
